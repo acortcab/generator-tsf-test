@@ -1,0 +1,28 @@
+{
+  "name": "generator-tsf-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acortcab/generator-tsf-test.git"
+  },
+  "author": "acortcab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acortcab/generator-tsf-test/issues"
+  },
+  "homepage": "https://github.com/acortcab/generator-tsf-test#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "primeicons": "^1.0.0",
+    "primeng": "^7.0.5",
+    "yeoman-generator": "^3.2.0",
+    "yosay": "^2.0.2"
+  }
+}
